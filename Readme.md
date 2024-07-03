@@ -51,5 +51,5 @@ Add `eslint-plugin-class-methods-preprocessors` to the plugins section of your `
         ...
         "class-methods-preprocessors/enforce-methods-preprocessors": "warn"
     }
-
+}
 ```
