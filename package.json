@@ -1,12 +1,16 @@
 {
   "name": "eslint-plugin-class-methods-preprocessors",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "homepage": "https://github.com/musmanfaisal/eslint-plugin-class-methods-preprocessors",
+  "repository": {
+    "url": "https://github.com/musmanfaisal/eslint-plugin-class-methods-preprocessors"
+  },
+  "author": "usmanfaisal60",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^9.6.0"
